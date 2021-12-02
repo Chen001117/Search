@@ -1,6 +1,6 @@
 # Search Algorithms
 
-This project implemented four search algorithms, including A, Dynamic programming, Monte Carlo Search and Temperal difference, and use a simple game Lianliankan as a testbed to analyze their performance. 
+This project implemented four search algorithms, including A star, Dynamic programming, Monte Carlo Search and Temperal difference, and use a simple game Lianliankan as a testbed to analyze their performance. 
 
  #### Usage
 
